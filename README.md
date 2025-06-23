@@ -178,3 +178,10 @@ The project emphasizes proper memory management:
 The codebase follows best practices:
 - **Modularization**: Clear separation between interface (.h) and implementation (.c)
 
+## Authors
+
+- *Diogo Martins* -> [@Diog0martins](https://github.com/Diog0martins)
+- *Gabriel Dantas* -> [@gabil88](https://github.com/gabil88)
+- *José Fernandes* -> [@JoseLourencoFernandes](https://github.com/JoseLourencoFernandes)
+- *Simão Oliveira* -> [@SimaoOliveira05](https://github.com/SimaoOliveira05)
+
