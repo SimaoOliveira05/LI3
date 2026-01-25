@@ -1,5 +1,9 @@
 # Music Streaming System
 
+# Grade
+**⭐ Grade: 18 / 20 ⭐**
+
+
 ## Description
 
 This project implements a data analysis system for a music streaming application, developed as a practical assignment for the **Computer Science Laboratories III** course. The system processes data related to music tracks, users, artists, albums, and usage history, enabling responses to specific queries about this data.
